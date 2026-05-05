@@ -1,9 +1,9 @@
 class LightitAi < Formula
   desc "Light-it AI Stack TUI installer — bootstrap your AI coding environment"
   homepage "https://github.com/ramosger/lightit-ai"
-  url "https://github.com/ramosger/lightit-ai/releases/download/v0.1.0/lightit-ai"
-  version "0.1.0"
-  sha256 "12979e6b910d4032674c4816ea04baea04112f72f6aa07540446eb504163f346"
+  url "https://github.com/ramosger/lightit-ai/releases/download/v0.1.1/lightit-ai"
+  version "0.1.1"
+  sha256 "d80e76d93b4b01ea0d4893539f574c5a5f45b3ae3385936076bfe0efb0fa1c04"
   license "MIT"
 
   depends_on "php"
