@@ -3,7 +3,7 @@ class LightitAi < Formula
   homepage "https://github.com/ramosger/lightit-ai"
   url "https://github.com/ramosger/lightit-ai/releases/download/v0.1.1/lightit-ai"
   version "0.1.1"
-  sha256 "d80e76d93b4b01ea0d4893539f574c5a5f45b3ae3385936076bfe0efb0fa1c04"
+  sha256 "2fd9425220cfae055cd3a1b015a15eb8b522ce1315e65995d07f74e319461b2a"
   license "MIT"
 
   depends_on "php"
